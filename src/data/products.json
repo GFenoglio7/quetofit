@@ -1,0 +1,682 @@
+[
+  {
+    "id": "1",
+    "slug": "whey-protein-ultra-tech-454g",
+    "name": "Whey Protein Ultra Tech 454g",
+    "brand": "Ultra Tech",
+    "category": "proteinas",
+    "shortDescription": "Proteína de suero de alta calidad para recuperación y desarrollo muscular.",
+    "description": "Whey Protein Ultra Tech es una proteína de suero concentrada y de alta calidad, ideal para deportistas que buscan mejorar su rendimiento y recuperación muscular. Con 24g de proteína por porción, contribuye al desarrollo y mantenimiento de la masa muscular. Disponible en 5 sabores.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/whey-protein-ultra-tech-454g-1-libra-831dd5833bc418b84517671178122561-1024-1024.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Chocolate", "flavor": "Chocolate", "price": 41100, "stock": true },
+      { "id": "v2", "label": "Coco", "flavor": "Coco", "price": 41100, "stock": true },
+      { "id": "v3", "label": "Dulce de Leche", "flavor": "Dulce de Leche", "price": 41100, "stock": true },
+      { "id": "v4", "label": "Frutilla", "flavor": "Frutilla", "price": 41100, "stock": true },
+      { "id": "v5", "label": "Vainilla", "flavor": "Vainilla", "price": 41100, "stock": true }
+    ],
+    "basePrice": 41100,
+    "featured": true,
+    "badge": "mas-vendido",
+    "tags": ["whey", "proteina", "musculo", "recuperacion", "ultra tech"]
+  },
+  {
+    "id": "2",
+    "slug": "creatina-ultra-tech",
+    "name": "Creatina Ultra Tech",
+    "brand": "Ultra Tech",
+    "category": "creatina",
+    "shortDescription": "Creatina monohidrato pura para aumentar fuerza y rendimiento en entrenamientos intensos.",
+    "description": "La Creatina Ultra Tech es creatina monohidrato de grado farmacéutico que aumenta los depósitos de fosfocreatina en el músculo, mejorando el rendimiento en ejercicios de alta intensidad. Disponible en tres tamaños para adaptarse a tus necesidades.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/creatina-ultra-tech-d7d4e690cc01c3c7c917671160423745-480-0.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "150g", "size": "150g", "price": 25900, "stock": true },
+      { "id": "v2", "label": "300g", "size": "300g", "price": 38500, "stock": true },
+      { "id": "v3", "label": "500g", "size": "500g", "price": 52000, "stock": true }
+    ],
+    "basePrice": 25900,
+    "featured": true,
+    "badge": "mas-vendido",
+    "tags": ["creatina", "fuerza", "rendimiento", "musculo", "ultra tech"]
+  },
+  {
+    "id": "3",
+    "slug": "pre-no-explosive-energy-xp-390g",
+    "name": "Pre-N-O Explosive Energy XP 390g",
+    "brand": "Ultra Tech",
+    "category": "pre-entreno",
+    "shortDescription": "Pre-entreno explosivo con NO2 para máxima energía, foco y bombeo muscular.",
+    "description": "Pre-N-O Explosive Energy XP es el pre-entreno de Ultra Tech diseñado para llevar tus entrenamientos al límite. Con su fórmula avanzada que incluye NO2, cafeína y aminoácidos, maximiza tu energía, concentración y bombeo muscular. Sabor Frutos Rojos.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/pre-n-o-explosive-energy-xp-x-390g-frutos-rojos-ca0ddc019b7ad3466817671168574033-480-0.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Frutos Rojos 390g", "flavor": "Frutos Rojos", "size": "390g", "price": 0, "stock": true }
+    ],
+    "basePrice": 0,
+    "featured": true,
+    "badge": "nuevo",
+    "tags": ["pre-entreno", "energia", "no2", "pump", "ultra tech"]
+  },
+  {
+    "id": "4",
+    "slug": "pre-no-explosive-ripped-360g",
+    "name": "Pre-N-O Explosive Ripped 360g",
+    "brand": "Ultra Tech",
+    "category": "pre-entreno",
+    "shortDescription": "Pre-entreno quemador de grasa con NO2 para definición y máximo rendimiento.",
+    "description": "Pre-N-O Explosive Ripped combina los beneficios de un pre-entreno con propiedades termogénicas para ayudarte a definir mientras entrenas. Ideal para las etapas de definición muscular. Sabor Frutos Rojos.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/pre-n-o-explosive-ripped-ultra-tech-x-360g-frutos-rojos-0140ac8ae8a141e05117671172851769-480-0.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Frutos Rojos 360g", "flavor": "Frutos Rojos", "size": "360g", "price": 0, "stock": true }
+    ],
+    "basePrice": 0,
+    "featured": false,
+    "tags": ["pre-entreno", "quemador", "definicion", "ultra tech"]
+  },
+  {
+    "id": "5",
+    "slug": "bcaa-2-1-1-ultra-tech-220g",
+    "name": "BCAA 2:1:1 Ultra Tech 220g",
+    "brand": "Ultra Tech",
+    "category": "aminoacidos",
+    "shortDescription": "Aminoácidos ramificados 2:1:1 para recuperación muscular y anti-catabolismo.",
+    "description": "Los BCAA 2:1:1 de Ultra Tech aportan leucina, isoleucina y valina en la proporción óptima para estimular la síntesis proteica, reducir el daño muscular y mejorar la recuperación post-entreno. Sabor Frutos Rojos.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/suplemento-ultra-tech-bcaa-2-1-1-x-220g-frutos-rojos-21866b8da667bff18217671142480114-480-0.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Frutos Rojos 220g", "flavor": "Frutos Rojos", "size": "220g", "price": 0, "stock": true }
+    ],
+    "basePrice": 0,
+    "featured": false,
+    "tags": ["bcaa", "aminoacidos", "recuperacion", "ultra tech"]
+  },
+  {
+    "id": "6",
+    "slug": "bcaa-2000-ultra-tech-120-caps",
+    "name": "BCAA 2000 Ultra Tech x120 Cápsulas",
+    "brand": "Ultra Tech",
+    "category": "aminoacidos",
+    "shortDescription": "BCAA en cápsulas para recuperación muscular en formato práctico.",
+    "description": "BCAA 2000 de Ultra Tech en cómodas cápsulas. Cada porción aporta 2000mg de aminoácidos ramificados para proteger el músculo, mejorar la recuperación y reducir la fatiga post-entrenamiento.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/suplemento-ultra-tech-bcaa-2000-120-caps-98513e83f364ff86cb17671140253417-480-0.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "120 Cápsulas", "size": "120 caps", "price": 0, "stock": true }
+    ],
+    "basePrice": 0,
+    "featured": false,
+    "tags": ["bcaa", "aminoacidos", "capsulas", "ultra tech"]
+  },
+  {
+    "id": "7",
+    "slug": "glutamine-ultra-tech-150g",
+    "name": "Glutamina Ultra Tech 150g",
+    "brand": "Ultra Tech",
+    "category": "aminoacidos",
+    "shortDescription": "L-Glutamina pura para recuperación muscular, inmunidad y salud intestinal.",
+    "description": "La Glutamina Ultra Tech es L-Glutamina micronizada de alta pureza. Es el aminoácido más abundante en el músculo y resulta esencial para la recuperación, el sistema inmune y la salud digestiva. Ideal para tomar post-entrenamiento.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/glutamine-ultra-tech-150g-2f6e7d9111431ae8de17671145285827-480-0.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "150g", "size": "150g", "price": 0, "stock": true }
+    ],
+    "basePrice": 0,
+    "featured": false,
+    "tags": ["glutamina", "aminoacidos", "recuperacion", "inmunidad", "ultra tech"]
+  },
+  {
+    "id": "8",
+    "slug": "lipo-stack-black-ultra-tech-60-caps",
+    "name": "Lipo Stack Black Ultra Tech x60 Cáps",
+    "brand": "Ultra Tech",
+    "category": "quemadores",
+    "shortDescription": "Termogénico avanzado de máxima potencia para quemar grasa y acelerar el metabolismo.",
+    "description": "Lipo Stack Black es el quemador de grasa más potente de Ultra Tech. Con una fórmula termogénica avanzada que aumenta el metabolismo, suprime el apetito y mejora el foco mental. Para usar junto con una dieta equilibrada y ejercicio.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/lipo-stack-black-ultra-tech-x-60-caps-982352f6ef487a83b817671191612047-480-0.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "60 Cápsulas", "size": "60 caps", "price": 0, "stock": true }
+    ],
+    "basePrice": 0,
+    "featured": false,
+    "tags": ["quemador", "termogenico", "metabolismo", "ultra tech"]
+  },
+  {
+    "id": "9",
+    "slug": "fat-burner-ultra-tech-mujer-60-caps",
+    "name": "Fat Burner Ultra Tech Mujer x60 Cáps",
+    "brand": "Ultra Tech",
+    "category": "quemadores",
+    "shortDescription": "Quemador de grasa formulado especialmente para mujeres.",
+    "description": "Fat Burner Ultra Tech Mujer es una fórmula termogénica diseñada para las necesidades específicas del organismo femenino. Ayuda a acelerar el metabolismo, reducir la retención de líquidos y mejorar la composición corporal.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/fat-burner-ultra-tech-x60-caps-mujer-5f69624fd1cf1a8f8017671188204145-480-0.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "60 Cápsulas", "size": "60 caps", "price": 0, "stock": true }
+    ],
+    "basePrice": 0,
+    "featured": false,
+    "tags": ["quemador", "mujer", "termogenico", "ultra tech"]
+  },
+  {
+    "id": "10",
+    "slug": "fat-burner-ultra-tech-hombre-60-caps",
+    "name": "Fat Burner Ultra Tech Hombre x60 Cáps",
+    "brand": "Ultra Tech",
+    "category": "quemadores",
+    "shortDescription": "Quemador de grasa formulado especialmente para hombres.",
+    "description": "Fat Burner Ultra Tech Hombre es un quemador de grasa potente diseñado para el organismo masculino. Acelera el metabolismo, mejora la energía durante el entrenamiento y ayuda a definir la musculatura.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/fat-burner-ultra-tech-x60-caps-hombre-0f3b2cc689517f567e17671185749457-480-0.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "60 Cápsulas", "size": "60 caps", "price": 0, "stock": true }
+    ],
+    "basePrice": 0,
+    "featured": false,
+    "tags": ["quemador", "hombre", "termogenico", "ultra tech"]
+  },
+  {
+    "id": "11",
+    "slug": "electrolitos-ultra-tech-capsulas-x60",
+    "name": "Electrolitos Ultra Tech x60 Cápsulas",
+    "brand": "Ultra Tech",
+    "category": "hidratacion",
+    "shortDescription": "Electrolitos esenciales para hidratación óptima durante y después del ejercicio.",
+    "description": "Los Electrolitos Ultra Tech en cápsulas reponen sodio, potasio, magnesio y otros minerales perdidos durante el sudor. Ideales para deportistas de resistencia y entrenamiento intenso. Sin azúcar añadida.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/electrolitos-ultra-tech-capsulas-x60-80f3672a476ba4606f17671196201745-480-0.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "60 Cápsulas", "size": "60 caps", "price": 0, "stock": true }
+    ],
+    "basePrice": 0,
+    "featured": false,
+    "tags": ["electrolitos", "hidratacion", "minerales", "ultra tech"]
+  },
+  {
+    "id": "12",
+    "slug": "rehydra-tech-isotonic-700g",
+    "name": "Rehydra Tech Isotónico Ultra Tech 700g",
+    "brand": "Ultra Tech",
+    "category": "hidratacion",
+    "shortDescription": "Bebida isotónica en polvo para rehidratación y recuperación de electrolitos.",
+    "description": "Rehydra Tech es la bebida isotónica de Ultra Tech formulada para reponer fluidos y electrolitos de manera eficiente. Aporta carbohidratos de rápida absorción para mantener el rendimiento durante actividades de larga duración.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/rehydra-tech-isotonic-ultra-tech-x-700g-67b37a433b9739040317671217792475-480-0.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "700g", "size": "700g", "price": 0, "stock": true }
+    ],
+    "basePrice": 0,
+    "featured": false,
+    "tags": ["isotónico", "hidratacion", "electrolitos", "ultra tech"]
+  },
+  {
+    "id": "13",
+    "slug": "energy-gel-amino-cafeina-32g",
+    "name": "Energy Gel Amino con Cafeína Ultra Tech 32g",
+    "brand": "Ultra Tech",
+    "category": "energia",
+    "shortDescription": "Gel energético con aminoácidos y cafeína para máximo rendimiento en carrera y ciclismo.",
+    "description": "Energy Gel Amino con Cafeína combina carbohidratos de rápida absorción, aminoácidos esenciales y cafeína para un impulso de energía completo durante el ejercicio de resistencia. Ideal para triatlón, maratón y ciclismo.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/energy-gel-amino-con-cafeina-ultra-tech-x-32g-caja-x12-unidades-f35f71708c8d8565aa17673588237843-480-0.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Arándano", "flavor": "Arandano", "price": 2400, "stock": true },
+      { "id": "v2", "label": "Manzana", "flavor": "Manzana", "price": 2400, "stock": true },
+      { "id": "v3", "label": "Vainilla", "flavor": "Vainilla", "price": 2400, "stock": true }
+    ],
+    "basePrice": 2400,
+    "featured": false,
+    "tags": ["gel", "energia", "cafeina", "aminoacidos", "running", "ultra tech"]
+  },
+  {
+    "id": "14",
+    "slug": "energy-gel-cafeina-32g",
+    "name": "Energy Gel con Cafeína Ultra Tech 32g",
+    "brand": "Ultra Tech",
+    "category": "energia",
+    "shortDescription": "Gel energético con cafeína para un boost inmediato de energía y concentración.",
+    "description": "Energy Gel con Cafeína de Ultra Tech es la solución perfecta para cuando necesitás un impulso rápido durante el ejercicio. Carbohidratos de absorción rápida + cafeína para mantener el rendimiento y el foco.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/energy-gel-con-cafeina-x-32g-caja-x12-unidades-2e3b5ce23b5b9f8ae017673587473977-480-0.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Arándano", "flavor": "Arandano", "price": 2100, "stock": true },
+      { "id": "v2", "label": "Manzana", "flavor": "Manzana", "price": 2100, "stock": true },
+      { "id": "v3", "label": "Vainilla", "flavor": "Vainilla", "price": 2100, "stock": true }
+    ],
+    "basePrice": 2100,
+    "featured": false,
+    "tags": ["gel", "energia", "cafeina", "running", "ultra tech"]
+  },
+  {
+    "id": "15",
+    "slug": "energy-gel-ultra-tech-32g",
+    "name": "Energy Gel Ultra Tech 32g",
+    "brand": "Ultra Tech",
+    "category": "energia",
+    "shortDescription": "Gel energético sin cafeína con carbohidratos de rápida absorción.",
+    "description": "Energy Gel Ultra Tech sin cafeína, ideal para sesiones nocturnas o para quienes son sensibles a la cafeína. Aporta carbohidratos de rápida absorción para mantener los niveles de glucógeno durante el ejercicio.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/energy-gel-ultra-tech-x-32g-mango-caja-x12-unidades-e358d7487571f9a9e617673587357382-480-0.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Mango", "flavor": "Mango", "price": 2100, "stock": true },
+      { "id": "v2", "label": "Frutilla", "flavor": "Frutilla", "price": 2100, "stock": true },
+      { "id": "v3", "label": "Frutos Rojos", "flavor": "Frutos Rojos", "price": 2100, "stock": true }
+    ],
+    "basePrice": 2100,
+    "featured": false,
+    "tags": ["gel", "energia", "sin cafeina", "running", "ultra tech"]
+  },
+  {
+    "id": "16",
+    "slug": "liquid-energy-gel-cafeina-60g",
+    "name": "Liquid Energy Gel con Cafeína Ultra Tech 60g",
+    "brand": "Ultra Tech",
+    "category": "energia",
+    "shortDescription": "Gel líquido con cafeína en formato grande para entrenamientos de larga duración.",
+    "description": "El Liquid Energy Gel con Cafeína Ultra Tech en formato de 60g es perfecto para competencias de larga distancia. Con textura más fluida que los geles tradicionales, es más fácil de consumir en movimiento. Incluye cafeína para mayor energía y foco.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/liquid-energy-gel-con-cafeina-ultra-tech-x-60g-caja-x12-unidades-4e7e500f016638d5bc17673588703462-480-0.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Arándanos", "flavor": "Arandanos", "price": 2700, "stock": true },
+      { "id": "v2", "label": "Manzana", "flavor": "Manzana", "price": 2700, "stock": true },
+      { "id": "v3", "label": "Vainilla", "flavor": "Vainilla", "price": 2700, "stock": true }
+    ],
+    "basePrice": 2700,
+    "featured": false,
+    "tags": ["gel liquido", "energia", "cafeina", "running", "ultra tech"]
+  },
+  {
+    "id": "17",
+    "slug": "liquid-energy-gel-ultra-tech-60g",
+    "name": "Liquid Energy Gel Ultra Tech 60g",
+    "brand": "Ultra Tech",
+    "category": "energia",
+    "shortDescription": "Gel líquido sin cafeína en formato 60g para deportes de resistencia.",
+    "description": "Liquid Energy Gel Ultra Tech sin cafeína en formato 60g. Ideal para sesiones largas o cuando no querés el estímulo de la cafeína. Textura fluida y sabores naturales.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/liquid-energy-gel-ultra-tech-x-60g-caja-x12-unidades-fbe5e0844b53b56fb317673588534735-480-0.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Frutos Rojos", "flavor": "Frutos Rojos", "price": 2700, "stock": true },
+      { "id": "v2", "label": "Mango", "flavor": "Mango", "price": 2700, "stock": true },
+      { "id": "v3", "label": "Frutilla", "flavor": "Frutilla", "price": 2700, "stock": true }
+    ],
+    "basePrice": 2700,
+    "featured": false,
+    "tags": ["gel liquido", "energia", "sin cafeina", "running", "ultra tech"]
+  },
+  {
+    "id": "18",
+    "slug": "energy-gel-amino-ultra-tech-32g",
+    "name": "Energy Gel Amino Ultra Tech 32g",
+    "brand": "Ultra Tech",
+    "category": "energia",
+    "shortDescription": "Gel energético con aminoácidos sin cafeína para recuperación y energía.",
+    "description": "Energy Gel Amino Ultra Tech combina carbohidratos de rápida absorción con aminoácidos esenciales para energía sostenida y recuperación muscular durante el ejercicio. Sin cafeína.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/energy-gel-amino-ultra-tech-x-32g-caja-x12-unidades-7019739d0cb30f55c617673587988588-480-0.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Frutilla", "flavor": "Frutilla", "price": 2400, "stock": true },
+      { "id": "v2", "label": "Frutos Rojos", "flavor": "Frutos Rojos", "price": 2400, "stock": true },
+      { "id": "v3", "label": "Mango", "flavor": "Mango", "price": 2400, "stock": true }
+    ],
+    "basePrice": 2400,
+    "featured": false,
+    "tags": ["gel", "energia", "aminoacidos", "running", "ultra tech"]
+  },
+  {
+    "id": "19",
+    "slug": "protein-bar-chocolate-50g",
+    "name": "Protein Bar Ultra Tech Chocolate 50g",
+    "brand": "Ultra Tech",
+    "category": "barras",
+    "shortDescription": "Barra proteica de chocolate con 20g de proteína para snack post-entreno.",
+    "description": "Protein Bar Ultra Tech sabor Chocolate es la barra proteica perfecta para cuando necesitás un snack nutritivo y delicioso. Con 20g de proteína por unidad, bajo en azúcar y de rápida preparación. Ideal para llevar en el bolso del gym.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/protein-bar-ultra-tech-50g-chocolate-por-unidad-7a9b480d1b51d6d09a17701174298662-480-0.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Chocolate - Unidad", "flavor": "Chocolate", "price": 3000, "stock": true }
+    ],
+    "basePrice": 3000,
+    "featured": false,
+    "tags": ["barra", "proteina", "snack", "chocolate", "ultra tech"]
+  },
+  {
+    "id": "20",
+    "slug": "protein-bar-frutilla-yogurt-50g",
+    "name": "Protein Bar Ultra Tech Frutilla Yogurt 50g",
+    "brand": "Ultra Tech",
+    "category": "barras",
+    "shortDescription": "Barra proteica sabor frutilla con yogurt, refrescante y nutritiva.",
+    "description": "Protein Bar Ultra Tech sabor Frutilla con Yogurt combina el sabor refrescante de la frutilla con una textura cremosa de yogurt. Con 20g de proteína por unidad, es el snack perfecto para cualquier momento del día.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/protein-bar-ultra-tech-50g-frutilla-con-yogurt-por-unidad-131697f5a72ff387d517701174162355-480-0.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Frutilla Yogurt - Unidad", "flavor": "Frutilla Yogurt", "price": 3000, "stock": true }
+    ],
+    "basePrice": 3000,
+    "featured": false,
+    "tags": ["barra", "proteina", "snack", "frutilla", "ultra tech"]
+  },
+  {
+    "id": "21",
+    "slug": "protein-bar-banana-50g",
+    "name": "Protein Bar Ultra Tech Banana 50g",
+    "brand": "Ultra Tech",
+    "category": "barras",
+    "shortDescription": "Barra proteica sabor banana, energética y rica en proteínas.",
+    "description": "Protein Bar Ultra Tech sabor Banana es la opción ideal para los amantes de la banana. Con 20g de proteína y el dulce sabor natural de banana, es perfecta como snack pre o post-entrenamiento.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/protein-bar-ultra-tech-50g-banana-por-unidad-8e545b482c55de700f17701174043469-480-0.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Banana - Unidad", "flavor": "Banana", "price": 3000, "stock": true }
+    ],
+    "basePrice": 3000,
+    "featured": false,
+    "tags": ["barra", "proteina", "snack", "banana", "ultra tech"]
+  },
+  {
+    "id": "22",
+    "slug": "cyclist-runners-bar-46g",
+    "name": "Cyclist & Runners Bar Ultra Tech 46g",
+    "brand": "Ultra Tech",
+    "category": "barras",
+    "shortDescription": "Barra especializada para ciclistas y corredores con energía sostenida.",
+    "description": "La Cyclist & Runners Bar está diseñada específicamente para deportes de resistencia. Con la combinación ideal de carbohidratos complejos, proteínas y electrolitos para mantener la energía durante largos esfuerzos.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/cyclist-runners-protein-energy-bar-ultra-tech-46g-por-unidad-3909ef5c2b6f07051b17701173871509-480-0.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Unidad 46g", "price": 3500, "stock": true }
+    ],
+    "basePrice": 3500,
+    "featured": false,
+    "tags": ["barra", "ciclismo", "running", "energia", "ultra tech"]
+  },
+  {
+    "id": "23",
+    "slug": "dubai-protein-bar-46g",
+    "name": "Dubai Protein Bar Ultra Tech 46g",
+    "brand": "Ultra Tech",
+    "category": "barras",
+    "shortDescription": "La famosa barra estilo Dubai con chocolate y pistacho, en versión proteica.",
+    "description": "Dubai Protein Bar trae la tendencia viral del chocolate Dubai a la nutrición deportiva. Con una deliciosa combinación de chocolate y kataifi, convertida en barra proteica. Una experiencia gourmet que también te ayuda a cumplir tus objetivos.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/dubai-protein-bar-ultra-tech-46g-chocolate-dubai-por-unidad-cc6e8f811303e8103d17701173647467-480-0.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Chocolate Dubai - Unidad", "flavor": "Chocolate Dubai", "price": 3500, "stock": true }
+    ],
+    "basePrice": 3500,
+    "featured": true,
+    "badge": "nuevo",
+    "tags": ["barra", "proteina", "dubai", "chocolate", "ultra tech"]
+  },
+  {
+    "id": "24",
+    "slug": "vaso-shaker-it-doesnt",
+    "name": "Vaso Premium Acrílico 'It Doesnt Shaker'",
+    "brand": "Ultra Tech",
+    "category": "accesorios",
+    "shortDescription": "Vaso shaker premium de acrílico con diseño motivacional.",
+    "description": "Vaso Shaker premium de acrílico Ultra Tech con diseño 'It Doesnt'. Alta resistencia, fácil de limpiar y con capacidad para preparar tus suplementos favoritos. Diseño motivacional para entrenamientos intensos.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/vaso-premium-acrilico-ultra-tech-it-doesnt-shaker-6d051c2dc602b2cd2317671228779719-480-0.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "It Doesnt Shaker", "price": 27100, "stock": true }
+    ],
+    "basePrice": 27100,
+    "featured": false,
+    "tags": ["shaker", "accesorio", "vaso", "ultra tech"]
+  },
+  {
+    "id": "25",
+    "slug": "vaso-shaker-no-excuses",
+    "name": "Vaso Premium Acrílico 'No Excuses Shaker'",
+    "brand": "Ultra Tech",
+    "category": "accesorios",
+    "shortDescription": "Vaso shaker premium de acrílico con frase motivacional 'No Excuses'.",
+    "description": "Vaso Shaker premium de acrílico Ultra Tech con diseño 'No Excuses'. Para quienes no tienen excusas para no entrenar. Alta calidad, resistente a caídas y con tapa hermética.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/vaso-premium-acrilico-ultra-tech-no-excuses-shaker-3fe861950295037f5017671227681656-480-0.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "No Excuses Shaker", "price": 27100, "stock": true }
+    ],
+    "basePrice": 27100,
+    "featured": false,
+    "tags": ["shaker", "accesorio", "vaso", "ultra tech"]
+  },
+  {
+    "id": "26",
+    "slug": "potasio-magnesio-vitatech-x60",
+    "name": "Potasio + Magnesio Vitatech x60 Cápsulas",
+    "brand": "Vitatech",
+    "category": "minerales",
+    "shortDescription": "Combinación de potasio y magnesio para función muscular y sistema nervioso.",
+    "description": "Potasio + Magnesio Vitatech combina dos minerales esenciales para el correcto funcionamiento muscular, la conducción nerviosa y el equilibrio hídrico del organismo. Ideal para deportistas y personas con alta actividad física.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/potasio-magnesio-vitatech-x60-capsulas-74d927ace89283cc2817671922705822-1024-1024.webp",
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/potasio-magnesio-vitatech-x60-capsulas-info-nutric-6a8ae3a473545dc60917671922705282-1024-1024.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "60 Cápsulas", "size": "60 caps", "price": 10500, "stock": true }
+    ],
+    "basePrice": 10500,
+    "featured": false,
+    "tags": ["potasio", "magnesio", "minerales", "vitatech"]
+  },
+  {
+    "id": "27",
+    "slug": "citrato-potasio-vitatech-x30",
+    "name": "Citrato de Potasio Vitatech x30 Cápsulas",
+    "brand": "Vitatech",
+    "category": "minerales",
+    "shortDescription": "Citrato de potasio de alta biodisponibilidad para balance electrolítico.",
+    "description": "Citrato de Potasio Vitatech en su forma más biodisponible. El potasio es esencial para la función muscular, el ritmo cardíaco y el equilibrio de fluidos. Especialmente recomendado para deportistas y personas con calambres musculares.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/citrato-de-potasio-vitatech-x30-capsulas-a558311ecd65131ea317671921001707-480-0.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "30 Cápsulas", "size": "30 caps", "price": 9600, "stock": true }
+    ],
+    "basePrice": 9600,
+    "featured": false,
+    "tags": ["potasio", "citrato", "minerales", "vitatech"]
+  },
+  {
+    "id": "28",
+    "slug": "nad-resveratrol-complex-x60",
+    "name": "NAD+ Resveratrol Complex x60 Cápsulas",
+    "brand": "Vitatech",
+    "category": "bienestar",
+    "shortDescription": "Complejo anti-envejecimiento con NAD+ y resveratrol para longevidad y vitalidad celular.",
+    "description": "NAD+ Resveratrol Complex de Vitatech es una fórmula de longevidad que combina Nicotinamida Adenina Dinucleótido (NAD+) con Resveratrol. Estos compuestos activan las sirtuinas, proteínas relacionadas con la longevidad celular, mejoran el metabolismo energético y protegen contra el daño oxidativo.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/nad-resveratrol-complex-x-60-capsulas-dd49fbdaaa9a6e217e17671919501897-1024-1024.webp",
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/nad-resveratrol-complex-x-60-capsulas-info-nutric-30e529b05f3a22bff917671919504516-1024-1024.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "60 Cápsulas", "size": "60 caps", "price": 52500, "stock": true }
+    ],
+    "basePrice": 52500,
+    "featured": true,
+    "badge": "nuevo",
+    "tags": ["nad", "resveratrol", "longevidad", "antioxidante", "vitatech"]
+  },
+  {
+    "id": "29",
+    "slug": "citrato-magnesio-polvo-vitatech-180g",
+    "name": "Citrato de Magnesio en Polvo Vitatech 180g",
+    "brand": "Vitatech",
+    "category": "minerales",
+    "shortDescription": "Magnesio en polvo sabor arándanos, de alta absorción y biodisponibilidad.",
+    "description": "Citrato de Magnesio en Polvo de Vitatech en delicioso sabor arándanos. El citrato es la forma de magnesio con mayor biodisponibilidad. Esencial para más de 300 reacciones enzimáticas, relaja el sistema nervioso, mejora el sueño y reduce calambres musculares.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/magnesio-citrato-en-polvo-vitatech-x180g-arandanos-120efd1430db17791f17671917114161-1024-1024.webp",
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/magnesio-citrato-en-polvo-vitatech-x180g-arandanos-1-9390f0b30771dce3a417671917113025.png"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Arándanos 180g", "flavor": "Arandanos", "size": "180g", "price": 28500, "stock": true }
+    ],
+    "basePrice": 28500,
+    "featured": false,
+    "tags": ["magnesio", "citrato", "polvo", "sueno", "vitatech"]
+  },
+  {
+    "id": "30",
+    "slug": "citrato-magnesio-vitatech-x30-comp",
+    "name": "Citrato Magnesio Vitatech x30 Comprimidos",
+    "brand": "Vitatech",
+    "category": "minerales",
+    "shortDescription": "Magnesio en comprimidos de fácil deglución para suplementación diaria.",
+    "description": "Citrato Magnesio Vitatech en comprimidos, la opción práctica y cómoda para tu suplementación diaria de magnesio. El citrato de magnesio mejora la calidad del sueño, reduce la fatiga y apoya la función muscular y nerviosa.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/citrato-magnesio-vitatech-x30-comprimidos-2300683c6eb709485b17671914248497-480-0.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "30 Comprimidos", "size": "30 comp", "price": 11500, "stock": true }
+    ],
+    "basePrice": 11500,
+    "featured": false,
+    "tags": ["magnesio", "citrato", "comprimidos", "vitatech"]
+  },
+  {
+    "id": "31",
+    "slug": "magnesio-vitatech-x30-comp",
+    "name": "Magnesio Vitatech x30 Comprimidos",
+    "brand": "Vitatech",
+    "category": "minerales",
+    "shortDescription": "Magnesio esencial en comprimidos para función muscular y bienestar general.",
+    "description": "Magnesio Vitatech en comprimidos. El magnesio es un mineral fundamental para más de 300 procesos bioquímicos del cuerpo: contracción muscular, función nerviosa, regulación de la presión arterial y síntesis de proteínas.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/magnesio-vitatech-x30-comprimidos-cdea30d17daafa3cad17671907002096-480-0.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "30 Comprimidos", "size": "30 comp", "price": 6900, "stock": true }
+    ],
+    "basePrice": 6900,
+    "featured": false,
+    "tags": ["magnesio", "minerales", "comprimidos", "vitatech"]
+  },
+  {
+    "id": "32",
+    "slug": "ashwagandha-vitatech-1300mg-x60",
+    "name": "Ashwagandha Vitatech 1300mg x60 Cápsulas",
+    "brand": "Vitatech",
+    "category": "bienestar",
+    "shortDescription": "Adaptógeno ancestral para reducir el estrés, mejorar el sueño y aumentar la vitalidad.",
+    "description": "Ashwagandha Vitatech en la dosis de 1300mg por porción es uno de los adaptógenos más estudiados de la medicina ayurvédica. Reduce los niveles de cortisol, alivia el estrés y la ansiedad, mejora la calidad del sueño, aumenta la resistencia física y apoya la función cognitiva.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/ashwagandha-vitatech-1300mg-x60-capsulas-2ad11f62e4e5f2446e17671904300405-1024-1024.webp",
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/ashwagandha-vitatech-1300mg-x60-capsulas-info-nutric-4ecf50b6a0502c2f6e17671904297940-1024-1024.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "60 Cápsulas", "size": "60 caps", "price": 48900, "stock": true }
+    ],
+    "basePrice": 48900,
+    "featured": true,
+    "badge": "mas-vendido",
+    "tags": ["ashwagandha", "adaptogeno", "estres", "sueno", "vitatech"]
+  },
+  {
+    "id": "33",
+    "slug": "aceite-pescado-chia-bacalao-vitatech-x30",
+    "name": "Aceite de Pescado + Chía + Bacalao Vitatech x30",
+    "brand": "Vitatech",
+    "category": "bienestar",
+    "shortDescription": "Combinación de omega-3 de pescado, chía y bacalao para salud cardiovascular y cerebral.",
+    "description": "Aceite de Pescado + Chía + Bacalao de Vitatech es una fórmula de omegas 3 de triple fuente. Los ácidos grasos EPA y DHA son esenciales para la salud cardiovascular, la función cerebral, la reducción de inflamación y la salud articular.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/aceite-de-pescado-chia-bacalao-x-30-comprimidos-a3f22667926422f05417671901880630-480-0.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "30 Comprimidos", "size": "30 comp", "price": 10500, "stock": true }
+    ],
+    "basePrice": 10500,
+    "featured": false,
+    "tags": ["omega3", "pescado", "chia", "cardiovascular", "vitatech"]
+  },
+  {
+    "id": "34",
+    "slug": "colageno-vita-flex-vitatech-360g",
+    "name": "Colágeno Vita Flex Vitatech 360g",
+    "brand": "Vitatech",
+    "category": "colageno",
+    "shortDescription": "Colágeno articular con vitamina C para articulaciones, tendones y cartílagos.",
+    "description": "Colágeno Vita Flex de Vitatech es una fórmula especialmente diseñada para la salud articular. Con colágeno tipo II, vitamina C y otros nutrientes que apoyan la regeneración del cartílago, tendones y ligamentos. Ideal para deportistas o personas con dolor articular.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/colageno-vita-flex-vita-tech-articulaciones-x-360g-arandano-ea2c3c56b2f26e96bc17671899520285-1024-1024.webp",
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/colageno-vita-flex-vita-tech-articulaciones-x-360g-arandano-info-nutric-41acbb57fd8deca4fe17671899519616-1024-1024.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Arándano 360g", "flavor": "Arandano", "size": "360g", "price": 33500, "stock": true }
+    ],
+    "basePrice": 33500,
+    "featured": false,
+    "tags": ["colageno", "articulaciones", "tendones", "vitatech"]
+  },
+  {
+    "id": "35",
+    "slug": "colageno-hidrolizado-vitatech-360g",
+    "name": "Colágeno Hidrolizado Vitatech 360g",
+    "brand": "Vitatech",
+    "category": "colageno",
+    "shortDescription": "Colágeno hidrolizado para piel, pelo, uñas y articulaciones.",
+    "description": "Colágeno Hidrolizado Vitatech en polvo de alta absorción. El colágeno hidrolizado (péptidos de colágeno) se absorbe más fácilmente que el colágeno nativo, promoviendo la regeneración de la piel, el cabello, las uñas y el tejido conectivo. Disponible en sabores Frutos del Bosque y Mango.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/colageno-hidrolizado-vita-tech-x-360g-fb-7dc19067af2985250617671862418587-1024-1024.webp",
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/colageno-hidrolizado-vita-tech-x-360g-mango-f079856eb9c5a8770f17671862418880-480-0.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Frutos del Bosque", "flavor": "Frutos del Bosque", "size": "360g", "price": 32500, "stock": true },
+      { "id": "v2", "label": "Mango", "flavor": "Mango", "size": "360g", "price": 32500, "stock": true }
+    ],
+    "basePrice": 32500,
+    "featured": true,
+    "tags": ["colageno", "piel", "pelo", "unas", "vitatech"]
+  },
+  {
+    "id": "36",
+    "slug": "colageno-beauty-complex-vitatech-360g",
+    "name": "Colágeno Beauty Complex Vitatech 360g",
+    "brand": "Vitatech",
+    "category": "colageno",
+    "shortDescription": "Fórmula beauty con colágeno, vitaminas y antioxidantes para piel luminosa.",
+    "description": "Colágeno Beauty Complex de Vitatech es la fórmula más completa para la belleza desde adentro. Combina colágeno hidrolizado con vitamina C, biotina, ácido hialurónico y antioxidantes para una piel más firme, luminosa e hidratada.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/colageno-beauty-complex-vita-tech-x-360g-arandano-aa8bb1672ca0e7a1ce17671896944118-480-0.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Arándano 360g", "flavor": "Arandano", "size": "360g", "price": 37500, "stock": false }
+    ],
+    "basePrice": 37500,
+    "featured": false,
+    "badge": "limitado",
+    "tags": ["colageno", "beauty", "piel", "biotina", "vitatech"]
+  }
+]
