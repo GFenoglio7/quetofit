@@ -1,7 +1,7 @@
 # Queto-Fit — Guía del Proyecto
 
 ## ¿Qué es esto?
-Sitio web vitrina para **Queto-Fit**, una tienda de suplementos y productos de bienestar. No tiene carrito de compras — el CTA principal es un botón de WhatsApp que conecta directo con el vendedor.
+Sitio web vitrina para **Queto-Fit**, una tienda de suplementos y productos de bienestar. Tiene un carrito de consulta — el usuario agrega productos y manda todo junto por WhatsApp al vendedor.
 
 ## Stack Técnico
 - **Next.js 16** con App Router
@@ -20,14 +20,17 @@ src/
       [slug]/page.tsx     → Detalle de producto
   components/
     layout/               → Navbar, Footer
-    product/              → ProductCard, ProductGrid, ProductImageGallery, ProductVariantSelector, WhatsAppButton
+    product/              → ProductCard, ProductGrid, ProductImageGallery, ProductVariantSelector, WhatsAppButton, AddToCartButton
+    cart/                 → CartDrawer (panel lateral del carrito)
     home/                 → HeroSection, CategorySection, BenefitsBar
     ui/                   → Badge, Button
+  context/
+    CartContext.tsx        → Estado global del carrito (localStorage)
   data/
     products.json         → Fuente de verdad de todos los productos
   lib/
     products.ts           → Funciones de acceso a datos
-    whatsapp.ts           → Generador de URLs de WhatsApp
+    whatsapp.ts           → Generador de URLs de WhatsApp (producto individual + carrito)
     utils.ts              → cn(), formatPrice()
   types/
     index.ts              → Interfaces TypeScript
@@ -37,7 +40,8 @@ src/
 ```
 NEXT_PUBLIC_WHATSAPP_NUMBER=  # número en formato internacional sin + (ej: 5491112345678)
 ```
-Configurar en `.env.local` localmente y en Vercel Environment Variables en producción.
+Configurar en `.env` localmente (ya existe) y en Vercel Environment Variables en producción.
+El archivo `.env*` está en `.gitignore` — nunca se sube a GitHub.
 
 ## Datos de Productos
 Los productos están en `src/data/products.json`. Fueron scrapeados de:
