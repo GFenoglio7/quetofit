@@ -10,6 +10,7 @@ import type { ProductVariant } from "@/types";
 import ProductImageGallery from "@/components/product/ProductImageGallery";
 import ProductVariantSelector from "@/components/product/ProductVariantSelector";
 import WhatsAppButton from "@/components/product/WhatsAppButton";
+import AddToCartButton from "@/components/product/AddToCartButton";
 import ProductCard from "@/components/product/ProductCard";
 import Link from "next/link";
 import { ChevronLeft, Tag, CheckCircle2 } from "lucide-react";
@@ -113,8 +114,9 @@ export default function ProductDetailPage({ params }: PageProps) {
               />
             </div>
 
-            {/* WhatsApp CTA */}
+            {/* CTAs */}
             <div className="space-y-3">
+              <AddToCartButton product={product} variant={selectedVariant} fullWidth />
               <WhatsAppButton
                 productName={product.name}
                 variantLabel={selectedVariant?.label}

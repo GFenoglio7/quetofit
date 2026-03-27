@@ -2,12 +2,14 @@
 
 import { useState, useEffect } from "react";
 import Link from "next/link";
-import { Menu, X, Dumbbell, MessageCircle } from "lucide-react";
+import { Menu, X, Dumbbell, MessageCircle, ShoppingCart } from "lucide-react";
 import { buildGeneralWhatsAppURL } from "@/lib/whatsapp";
+import { useCart } from "@/context/CartContext";
 
 export default function Navbar() {
   const [open, setOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
+  const { totalItems, openCart } = useCart();
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 20);
@@ -52,8 +54,22 @@ export default function Navbar() {
           ))}
         </div>
 
-        {/* WhatsApp CTA + Mobile Menu */}
-        <div className="flex items-center gap-3">
+        {/* Cart + WhatsApp CTA + Mobile Menu */}
+        <div className="flex items-center gap-2">
+          {/* Cart button */}
+          <button
+            onClick={openCart}
+            className="relative text-white p-2 hover:bg-slate-800 rounded-lg transition-colors"
+            aria-label="Ver consulta"
+          >
+            <ShoppingCart className="w-5 h-5" />
+            {totalItems > 0 && (
+              <span className="absolute -top-0.5 -right-0.5 bg-[#16A34A] text-white text-xs font-bold w-4 h-4 rounded-full flex items-center justify-center leading-none">
+                {totalItems > 9 ? "9+" : totalItems}
+              </span>
+            )}
+          </button>
+
           <a
             href={buildGeneralWhatsAppURL()}
             target="_blank"

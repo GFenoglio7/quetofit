@@ -3,6 +3,7 @@ import Image from "next/image";
 import type { Product } from "@/types";
 import { formatPrice } from "@/lib/utils";
 import { CATEGORY_LABELS } from "@/types";
+import AddToCartButton from "@/components/product/AddToCartButton";
 
 const BADGE_STYLES: Record<string, string> = {
   "mas-vendido": "bg-[#FACC15] text-yellow-900",
@@ -61,7 +62,7 @@ export default function ProductCard({ product }: Props) {
           <h3 className="text-slate-800 font-semibold text-sm leading-snug line-clamp-2 mb-3 flex-1">
             {product.name}
           </h3>
-          <div className="flex items-center justify-between mt-auto">
+          <div className="flex items-center justify-between mt-auto mb-3">
             <span
               className={`font-bold ${
                 product.basePrice === 0 ? "text-sm text-slate-500" : "text-[#16A34A] text-base"
@@ -73,6 +74,7 @@ export default function ProductCard({ product }: Props) {
               Ver más →
             </span>
           </div>
+          <AddToCartButton product={product} />
         </div>
       </div>
     </Link>
