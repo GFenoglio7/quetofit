@@ -678,5 +678,173 @@
     "featured": false,
     "badge": "limitado",
     "tags": ["colageno", "beauty", "piel", "biotina", "vitatech"]
+  },
+  {
+    "id": "37",
+    "slug": "whey-protein-ultra-tech-907g",
+    "name": "Whey Protein Ultra Tech 907g",
+    "brand": "Ultra Tech",
+    "category": "proteinas",
+    "shortDescription": "Proteína de suero de absorción rápida con BCAA para potenciar la masa muscular y acelerar la recuperación.",
+    "description": "Whey Protein Ultra Tech en formato 907g (2 libras) es una proteína de suero de alta calidad con BCAA esenciales para maximizar el desarrollo muscular y acelerar la recuperación post-entrenamiento. Disponible en 6 sabores.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/whey-protein-ultra-tech-454g-1-libra-593a568dcd65cbb16e17671182471497-1024-1024.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Banana", "flavor": "Banana", "price": 74900, "stock": true },
+      { "id": "v2", "label": "Chocolate", "flavor": "Chocolate", "price": 74900, "stock": true },
+      { "id": "v3", "label": "Coco", "flavor": "Coco", "price": 74900, "stock": true },
+      { "id": "v4", "label": "Dulce de Leche", "flavor": "Dulce de Leche", "price": 74900, "stock": true },
+      { "id": "v5", "label": "Frutilla", "flavor": "Frutilla", "price": 74900, "stock": true },
+      { "id": "v6", "label": "Vainilla", "flavor": "Vainilla", "price": 74900, "stock": true }
+    ],
+    "basePrice": 74900,
+    "featured": false,
+    "tags": ["whey", "proteina", "musculo", "recuperacion", "ultra tech", "907g", "2 libras"]
+  },
+  {
+    "id": "38",
+    "slug": "vaso-tri-shaker-ultra-tech",
+    "name": "Vaso Tri Shaker Ultra Tech",
+    "brand": "Ultra Tech",
+    "category": "accesorios",
+    "shortDescription": "Shaker con 3 compartimentos independientes para polvo, cápsulas y bebida, con tapa a rosca y rejilla anti-grumos.",
+    "description": "El Vaso Tri Shaker de Ultra Tech cuenta con 3 compartimentos independientes: uno para mezclar tu suplemento, uno para llevar el polvo seco y otro para guardar cápsulas. Tapa a rosca hermética y rejilla anti-grumos incluidas.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/vaso-tri-shaker-ultra-tech-1c2b0984e440d4b79517671221927041-1024-1024.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Único", "price": 7900, "stock": true }
+    ],
+    "basePrice": 7900,
+    "featured": false,
+    "tags": ["shaker", "vaso", "accesorios", "ultra tech"]
+  },
+  {
+    "id": "39",
+    "slug": "vaso-batidor-tapa-a-rosca-ultra-tech",
+    "name": "Vaso Batidor Tapa a Rosca Ultra Tech",
+    "brand": "Ultra Tech",
+    "category": "accesorios",
+    "shortDescription": "Vaso batidor con tapa a rosca hermética y malla anti-grumos para preparar suplementos en polvo.",
+    "description": "El Vaso Batidor de Ultra Tech tiene tapa a rosca hermética y malla anti-grumos incorporada para mezclar suplementos en polvo de forma rápida y sin grumos. Práctico para llevar a cualquier lado.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/vaso-batidor-tapa-a-rosca-ultra-tech-c4296b3abcb60e52a217671220581549-1024-1024.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Único", "price": 6900, "stock": true }
+    ],
+    "basePrice": 6900,
+    "featured": false,
+    "tags": ["shaker", "vaso", "batidor", "accesorios", "ultra tech"]
+  },
+  {
+    "id": "40",
+    "slug": "vaso-premium-acrilico-ultra-tech-lets-shaker",
+    "name": "Vaso Premium Acrílico Ultra Tech Let's Shaker",
+    "brand": "Ultra Tech",
+    "category": "accesorios",
+    "shortDescription": "Shaker premium de acrílico traslúcido con tapa hermética y resorte de acero inoxidable anti-grumos.",
+    "description": "El Vaso Premium Acrílico Let's Shaker de Ultra Tech es un shaker de alta calidad con cuerpo acrílico traslúcido, tapa hermética a rosca y resorte interno de acero inoxidable para mezclas perfectas sin grumos.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/vaso-premium-acrilico-ultra-tech-lets-shaker-988b6787d7199c859517671226834869-1024-1024.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Único", "price": 27100, "stock": true }
+    ],
+    "basePrice": 27100,
+    "featured": false,
+    "tags": ["shaker", "vaso", "premium", "acrilico", "accesorios", "ultra tech"]
+  },
+  {
+    "id": "41",
+    "slug": "cyclist-runners-protein-energy-bar-ultra-tech-46g-x12",
+    "name": "Cyclist & Runners Protein Energy Bar Ultra Tech 46g x12",
+    "brand": "Ultra Tech",
+    "category": "barras",
+    "shortDescription": "Barra proteica y energética de 46g con 13g de proteína y 450mg de BCAA, ideal para ciclistas y corredores.",
+    "description": "La Cyclist & Runners Protein Energy Bar de Ultra Tech es una barra de 46g diseñada para deportes de resistencia. Aporta 13g de proteína, 20g de carbohidratos y 450mg de BCAA. Sabor Chocolate Brownie con cobertura de chocolate blanco. Caja x 12 unidades.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/cyclist-runners-protein-energy-bar-ultra-tech-46g-8c55d018efad72021217671149062435-1024-1024.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Chocolate Brownie x12", "flavor": "Chocolate Brownie", "price": 36900, "stock": true }
+    ],
+    "basePrice": 36900,
+    "featured": false,
+    "tags": ["barras", "proteina", "energia", "ciclismo", "running", "ultra tech"]
+  },
+  {
+    "id": "42",
+    "slug": "protein-bar-ultra-tech-50g-chocolate-x12",
+    "name": "Protein Bar Ultra Tech 50g Chocolate x12",
+    "brand": "Ultra Tech",
+    "category": "barras",
+    "shortDescription": "Barra proteica de 50g con 16g de proteína e interior crocante con cobertura de chocolate. Caja x 12.",
+    "description": "La Protein Bar de Ultra Tech en sabor Chocolate tiene 50g con 16g de proteína (32%), interior crocante y cobertura de chocolate. Fabricada en la única planta exclusiva de alimentos funcionales de Latinoamérica. Caja x 12 unidades.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/protein-bar-ultra-tech-50g-chocolate-x-12-unidades-0a741f3ae2a7a8381817671157367444-1024-1024.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Chocolate x12", "flavor": "Chocolate", "price": 32100, "stock": true }
+    ],
+    "basePrice": 32100,
+    "featured": false,
+    "tags": ["barras", "proteina", "chocolate", "ultra tech"]
+  },
+  {
+    "id": "43",
+    "slug": "dubai-protein-bar-ultra-tech-46g-x12",
+    "name": "Dubai Protein Bar Ultra Tech 46g x12",
+    "brand": "Ultra Tech",
+    "category": "barras",
+    "shortDescription": "Barra proteica estilo Dubai de 46g con relleno cremoso de pistacho y cobertura de chocolate. Caja x 12.",
+    "description": "La Dubai Protein Bar de Ultra Tech es una barra de 46g inspirada en el famoso chocolate de Dubai, con cobertura de chocolate, relleno cremoso de pistacho y trozos crocantes. Aporta 12g de proteína por unidad. Caja x 12 unidades.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/dubai-protein-bar-ultra-tech-46g-chocolate-dubai-x-12-unidades-4817a13dae844e6e9817671151514030-1024-1024.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Chocolate Dubai x12", "flavor": "Chocolate Dubai", "price": 36900, "stock": true }
+    ],
+    "basePrice": 36900,
+    "featured": true,
+    "badge": "nuevo",
+    "tags": ["barras", "proteina", "dubai", "pistacho", "ultra tech"]
+  },
+  {
+    "id": "44",
+    "slug": "protein-bar-ultra-tech-50g-banana-x12",
+    "name": "Protein Bar Ultra Tech 50g Banana x12",
+    "brand": "Ultra Tech",
+    "category": "barras",
+    "shortDescription": "Barra proteica de 50g sabor banana con 16g de proteína e interior crocante con cobertura de chocolate. Caja x 12.",
+    "description": "La Protein Bar de Ultra Tech en sabor Banana tiene 50g con 16g de proteína (32%), interior crocante y cobertura de chocolate. Fabricada en la única planta exclusiva de alimentos funcionales de Latinoamérica. Caja x 12 unidades.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/protein-bar-ultra-tech-50g-banana-x-12-unidades-1db220cda20f495fb917671153634471-1024-1024.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Banana x12", "flavor": "Banana", "price": 32100, "stock": true }
+    ],
+    "basePrice": 32100,
+    "featured": false,
+    "tags": ["barras", "proteina", "banana", "ultra tech"]
+  },
+  {
+    "id": "45",
+    "slug": "protein-bar-ultra-tech-50g-frutilla-yogurt-x12",
+    "name": "Protein Bar Ultra Tech 50g Frutilla con Yogurt x12",
+    "brand": "Ultra Tech",
+    "category": "barras",
+    "shortDescription": "Barra proteica de 50g sabor frutilla con yogurt, con 16g de proteína e interior crocante. Caja x 12.",
+    "description": "La Protein Bar de Ultra Tech en sabor Frutilla con Yogurt tiene 50g con 16g de proteína (32%), interior crocante y cobertura de yogurt. Fabricada en la única planta exclusiva de alimentos funcionales de Latinoamérica. Caja x 12 unidades.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/protein-bar-ultra-tech-50g-frutilla-con-yogurt-x-12-unidades-4ef4d883731e99d05617671158519098-1024-1024.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Frutilla con Yogurt x12", "flavor": "Frutilla con Yogurt", "price": 32100, "stock": true }
+    ],
+    "basePrice": 32100,
+    "featured": false,
+    "tags": ["barras", "proteina", "frutilla", "yogurt", "ultra tech"]
   }
 ]
