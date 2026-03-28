@@ -846,5 +846,105 @@
     "basePrice": 32100,
     "featured": false,
     "tags": ["barras", "proteina", "frutilla", "yogurt", "ultra tech"]
+  },
+  {
+    "id": "46",
+    "slug": "liquid-energy-gel-con-cafeina-ultra-tech-60g-x12",
+    "name": "Liquid Energy Gel Con Cafeina Ultra Tech 60g x12",
+    "brand": "Ultra Tech",
+    "category": "energia",
+    "shortDescription": "Gel energético líquido de 60g con cafeína, carbohidratos y electrolitos para máxima energía instantánea.",
+    "description": "Liquid Energy Gel Con Cafeína Ultra Tech es gel energético de 60g formulado con cafeína, carbohidratos de rápida absorción y electrolitos. Perfecto para entrenamientos intensos y competencias. Disponible en 3 sabores.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/liquid-energy-gel-con-cafeina-ultra-tech-x-60g-caja-x12-unidades-f077b396f5d4bfba9017671930329629-1024-1024.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Arándanos", "flavor": "Arándanos", "price": 29100, "stock": false },
+      { "id": "v2", "label": "Manzana", "flavor": "Manzana", "price": 29100, "stock": false },
+      { "id": "v3", "label": "Vainilla", "flavor": "Vainilla", "price": 29100, "stock": true }
+    ],
+    "basePrice": 29100,
+    "featured": false,
+    "tags": ["gel", "energia", "cafeina", "electrolitos", "ultra tech"]
+  },
+  {
+    "id": "47",
+    "slug": "liquid-energy-gel-ultra-tech-60g-x12",
+    "name": "Liquid Energy Gel Ultra Tech 60g x12",
+    "brand": "Ultra Tech",
+    "category": "energia",
+    "shortDescription": "Gel energético líquido de 60g con carbohidratos y electrolitos para energía sostenida sin cafeína.",
+    "description": "Liquid Energy Gel Ultra Tech es gel energético de 60g con carbohidratos de rápida absorción y electrolitos para mantener el rendimiento. Sin cafeína, ideal para entrenamientos largos. Disponible en 3 sabores.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/liquid-energy-gel-ultra-tech-x-60g-caja-x12-unidades-d7ab3443acf833996e17671928416725-1024-1024.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Frutos Rojos", "flavor": "Frutos Rojos", "price": 29100, "stock": true },
+      { "id": "v2", "label": "Mango", "flavor": "Mango", "price": 29100, "stock": true },
+      { "id": "v3", "label": "Frutilla", "flavor": "Frutilla", "price": 29100, "stock": true }
+    ],
+    "basePrice": 29100,
+    "featured": false,
+    "tags": ["gel", "energia", "electrolitos", "carbohidratos", "ultra tech"]
+  },
+  {
+    "id": "48",
+    "slug": "energy-gel-con-cafeina-32g-x12",
+    "name": "Energy Gel Con Cafeina 32g x12",
+    "brand": "Ultra Tech",
+    "category": "energia",
+    "shortDescription": "Gel energético de 32g con cafeína para energía rápida e inmediata durante el ejercicio.",
+    "description": "Energy Gel Con Cafeína es gel de 32g formulado con maltodextrina, fructosa, cafeína y electrolitos. Proporciona energía inmediata y sostenida. Disponible en 3 sabores.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/energy-gel-con-cafeina-x-32g-caja-x12-unidades-927d82cc53b993e3be17671210420867-480-0.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Arándano", "flavor": "Arándano", "price": 22500, "stock": true },
+      { "id": "v2", "label": "Manzana", "flavor": "Manzana", "price": 22500, "stock": true },
+      { "id": "v3", "label": "Vainilla", "flavor": "Vainilla", "price": 22500, "stock": true }
+    ],
+    "basePrice": 22500,
+    "featured": false,
+    "tags": ["gel", "energia", "cafeina", "32g", "ultra tech"]
+  },
+  {
+    "id": "49",
+    "slug": "energy-gel-ultra-tech-32g-x12",
+    "name": "Energy Gel Ultra Tech 32g x12",
+    "brand": "Ultra Tech",
+    "category": "energia",
+    "shortDescription": "Gel energético de 32g sin cafeína con carbohidratos y electrolitos para rendimiento sostenido.",
+    "description": "Energy Gel Ultra Tech es gel de 32g sin cafeína formulado con maltodextrina, fructosa y electrolitos. Ideal para entrenamientos de resistencia. Disponible en 3 sabores.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/energy-gel-ultra-tech-x-32g-mango-caja-x12-unidades-9a7c2f64446bedbc8d17671205362341-480-0.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Mango", "flavor": "Mango", "price": 22500, "stock": true },
+      { "id": "v2", "label": "Frutilla", "flavor": "Frutilla", "price": 22500, "stock": true },
+      { "id": "v3", "label": "Frutos Rojos", "flavor": "Frutos Rojos", "price": 22500, "stock": true }
+    ],
+    "basePrice": 22500,
+    "featured": false,
+    "tags": ["gel", "energia", "electrolitos", "32g", "ultra tech"]
+  },
+  {
+    "id": "50",
+    "slug": "energy-gel-amino-ultra-tech-32g-x12",
+    "name": "Energy Gel Amino Ultra Tech 32g x12",
+    "brand": "Ultra Tech",
+    "category": "energia",
+    "shortDescription": "Gel energético de 32g con BCAA y electrolitos para energía y recuperación muscular.",
+    "description": "Energy Gel Amino Ultra Tech es gel de 32g formulado con BCAA (valina, leucina, isoleucina), maltodextrina, fructosa y electrolitos. Combina energía e recuperación muscular. Disponible en 3 sabores.",
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/408/700/products/energy-gel-amino-ultra-tech-x-32g-caja-x12-unidades-fc611a065ed50a9f0017671213633894-1024-1024.webp"
+    ],
+    "variants": [
+      { "id": "v1", "label": "Frutilla", "flavor": "Frutilla", "price": 25900, "stock": true },
+      { "id": "v2", "label": "Frutos Rojos", "flavor": "Frutos Rojos", "price": 25900, "stock": true },
+      { "id": "v3", "label": "Mango", "flavor": "Mango", "price": 25900, "stock": true }
+    ],
+    "basePrice": 25900,
+    "featured": false,
+    "tags": ["gel", "energia", "bcaa", "aminoacidos", "32g", "ultra tech"]
   }
 ]
