@@ -101,7 +101,7 @@ export default function ProductDetailPage({ params }: PageProps) {
               </span>
               {!isConsultar && (
                 <p className="text-slate-500 text-xs mt-1">
-                  Hasta 6 cuotas sin interés · 15% OFF pagando en efectivo
+                  Oferta disponible · 15% OFF pagando en efectivo
                 </p>
               )}
             </div>

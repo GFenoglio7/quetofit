@@ -35,8 +35,8 @@
     ],
     "variants": [
       { "id": "v1", "label": "150g", "size": "150g", "price": 25900, "stock": true },
-      { "id": "v2", "label": "300g", "size": "300g", "price": 38500, "stock": true },
-      { "id": "v3", "label": "500g", "size": "500g", "price": 52000, "stock": true }
+      { "id": "v2", "label": "300g", "size": "300g", "price": 44500, "stock": true },
+      { "id": "v3", "label": "500g", "size": "500g", "price": 69100, "stock": true }
     ],
     "basePrice": 25900,
     "featured": true,
@@ -55,9 +55,9 @@
       "https://acdn-us.mitiendanube.com/stores/001/408/700/products/pre-n-o-explosive-energy-xp-x-390g-frutos-rojos-ca0ddc019b7ad3466817671168574033-480-0.webp"
     ],
     "variants": [
-      { "id": "v1", "label": "Frutos Rojos 390g", "flavor": "Frutos Rojos", "size": "390g", "price": 0, "stock": true }
+      { "id": "v1", "label": "Frutos Rojos 390g", "flavor": "Frutos Rojos", "size": "390g", "price": 44500, "stock": true }
     ],
-    "basePrice": 0,
+    "basePrice": 44500,
     "featured": true,
     "badge": "nuevo",
     "tags": ["pre-entreno", "energia", "no2", "pump", "ultra tech"]
@@ -74,9 +74,9 @@
       "https://acdn-us.mitiendanube.com/stores/001/408/700/products/pre-n-o-explosive-ripped-ultra-tech-x-360g-frutos-rojos-0140ac8ae8a141e05117671172851769-480-0.webp"
     ],
     "variants": [
-      { "id": "v1", "label": "Frutos Rojos 360g", "flavor": "Frutos Rojos", "size": "360g", "price": 0, "stock": true }
+      { "id": "v1", "label": "Frutos Rojos 360g", "flavor": "Frutos Rojos", "size": "360g", "price": 54500, "stock": true }
     ],
-    "basePrice": 0,
+    "basePrice": 54500,
     "featured": false,
     "tags": ["pre-entreno", "quemador", "definicion", "ultra tech"]
   },
@@ -92,9 +92,9 @@
       "https://acdn-us.mitiendanube.com/stores/001/408/700/products/suplemento-ultra-tech-bcaa-2-1-1-x-220g-frutos-rojos-21866b8da667bff18217671142480114-480-0.webp"
     ],
     "variants": [
-      { "id": "v1", "label": "Frutos Rojos 220g", "flavor": "Frutos Rojos", "size": "220g", "price": 0, "stock": true }
+      { "id": "v1", "label": "Frutos Rojos 220g", "flavor": "Frutos Rojos", "size": "220g", "price": 28100, "stock": true }
     ],
-    "basePrice": 0,
+    "basePrice": 28100,
     "featured": false,
     "tags": ["bcaa", "aminoacidos", "recuperacion", "ultra tech"]
   },
@@ -110,9 +110,9 @@
       "https://acdn-us.mitiendanube.com/stores/001/408/700/products/suplemento-ultra-tech-bcaa-2000-120-caps-98513e83f364ff86cb17671140253417-480-0.webp"
     ],
     "variants": [
-      { "id": "v1", "label": "120 Cápsulas", "size": "120 caps", "price": 0, "stock": true }
+      { "id": "v1", "label": "120 Cápsulas", "size": "120 caps", "price": 23100, "stock": true }
     ],
-    "basePrice": 0,
+    "basePrice": 23100,
     "featured": false,
     "tags": ["bcaa", "aminoacidos", "capsulas", "ultra tech"]
   },
@@ -128,9 +128,9 @@
       "https://acdn-us.mitiendanube.com/stores/001/408/700/products/glutamine-ultra-tech-150g-2f6e7d9111431ae8de17671145285827-480-0.webp"
     ],
     "variants": [
-      { "id": "v1", "label": "150g", "size": "150g", "price": 0, "stock": true }
+      { "id": "v1", "label": "150g", "size": "150g", "price": 24100, "stock": true }
     ],
-    "basePrice": 0,
+    "basePrice": 24100,
     "featured": false,
     "tags": ["glutamina", "aminoacidos", "recuperacion", "inmunidad", "ultra tech"]
   },
@@ -146,9 +146,9 @@
       "https://acdn-us.mitiendanube.com/stores/001/408/700/products/lipo-stack-black-ultra-tech-x-60-caps-982352f6ef487a83b817671191612047-480-0.webp"
     ],
     "variants": [
-      { "id": "v1", "label": "60 Cápsulas", "size": "60 caps", "price": 0, "stock": true }
+      { "id": "v1", "label": "60 Cápsulas", "size": "60 caps", "price": 46500, "stock": true }
     ],
-    "basePrice": 0,
+    "basePrice": 46500,
     "featured": false,
     "tags": ["quemador", "termogenico", "metabolismo", "ultra tech"]
   },
@@ -164,9 +164,9 @@
       "https://acdn-us.mitiendanube.com/stores/001/408/700/products/fat-burner-ultra-tech-x60-caps-mujer-5f69624fd1cf1a8f8017671188204145-480-0.webp"
     ],
     "variants": [
-      { "id": "v1", "label": "60 Cápsulas", "size": "60 caps", "price": 0, "stock": true }
+      { "id": "v1", "label": "60 Cápsulas", "size": "60 caps", "price": 15900, "stock": true }
     ],
-    "basePrice": 0,
+    "basePrice": 15900,
     "featured": false,
     "tags": ["quemador", "mujer", "termogenico", "ultra tech"]
   },
@@ -182,9 +182,9 @@
       "https://acdn-us.mitiendanube.com/stores/001/408/700/products/fat-burner-ultra-tech-x60-caps-hombre-0f3b2cc689517f567e17671185749457-480-0.webp"
     ],
     "variants": [
-      { "id": "v1", "label": "60 Cápsulas", "size": "60 caps", "price": 0, "stock": true }
+      { "id": "v1", "label": "60 Cápsulas", "size": "60 caps", "price": 15900, "stock": true }
     ],
-    "basePrice": 0,
+    "basePrice": 15900,
     "featured": false,
     "tags": ["quemador", "hombre", "termogenico", "ultra tech"]
   },
@@ -200,9 +200,9 @@
       "https://acdn-us.mitiendanube.com/stores/001/408/700/products/electrolitos-ultra-tech-capsulas-x60-80f3672a476ba4606f17671196201745-480-0.webp"
     ],
     "variants": [
-      { "id": "v1", "label": "60 Cápsulas", "size": "60 caps", "price": 0, "stock": true }
+      { "id": "v1", "label": "60 Cápsulas", "size": "60 caps", "price": 17500, "stock": true }
     ],
-    "basePrice": 0,
+    "basePrice": 17500,
     "featured": false,
     "tags": ["electrolitos", "hidratacion", "minerales", "ultra tech"]
   },
@@ -218,9 +218,9 @@
       "https://acdn-us.mitiendanube.com/stores/001/408/700/products/rehydra-tech-isotonic-ultra-tech-x-700g-67b37a433b9739040317671217792475-480-0.webp"
     ],
     "variants": [
-      { "id": "v1", "label": "700g", "size": "700g", "price": 0, "stock": true }
+      { "id": "v1", "label": "700g", "size": "700g", "price": 22900, "stock": true }
     ],
-    "basePrice": 0,
+    "basePrice": 22900,
     "featured": false,
     "tags": ["isotónico", "hidratacion", "electrolitos", "ultra tech"]
   },

@@ -3,7 +3,7 @@ import { Shield, MessageCircle, CreditCard, Package } from "lucide-react";
 const BENEFITS = [
   { icon: Shield, title: "Productos Originales", desc: "100% auténticos, marcas líderes" },
   { icon: MessageCircle, title: "Atención Personalizada", desc: "Asesoramiento por WhatsApp" },
-  { icon: CreditCard, title: "Financiación Disponible", desc: "Hasta 6 cuotas sin interés" },
+  { icon: CreditCard, title: "Mejores Precios", desc: "15% OFF pagando en efectivo" },
   { icon: Package, title: "Envíos a Todo el País", desc: "Despacho rápido y seguro" },
 ];
 
