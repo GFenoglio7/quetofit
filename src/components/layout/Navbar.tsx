@@ -20,6 +20,7 @@ export default function Navbar() {
   const links = [
     { href: "/", label: "Inicio" },
     { href: "/productos", label: "Productos" },
+    { href: "/rutinas", label: "Rutinas" },
     { href: "/productos?category=proteinas", label: "Proteínas" },
     { href: "/productos?category=bienestar", label: "Bienestar" },
   ];

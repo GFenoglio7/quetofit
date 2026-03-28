@@ -1,0 +1,326 @@
+[
+  {
+    "id": "1",
+    "slug": "hipertrofia-4-dias-push-pull-legs",
+    "name": "Hipertrofia 4 días — Push/Pull/Legs",
+    "shortDescription": "Rutina clásica de hipertrofia dividida en empuje, jalón y piernas para máximo volumen muscular.",
+    "description": "Rutina de 4 días diseñada para maximizar la ganancia de masa muscular. Utiliza la distribución Push/Pull/Legs que permite entrenar cada grupo muscular con suficiente volumen y frecuencia. Ideal para intermedios y avanzados que buscan seguir progresando en tamaño y fuerza.",
+    "objetivo": "hipertrofia",
+    "nivel": "intermedio",
+    "diasPorSemana": 4,
+    "duracionMinutos": 75,
+    "featured": true,
+    "badge": "popular",
+    "suplementosRecomendados": [
+      "whey-protein-ultra-tech-454g",
+      "creatina-ultra-tech",
+      "bcaa-2-1-1-ultra-tech-220g"
+    ],
+    "dias": [
+      {
+        "numero": 1,
+        "nombre": "Día 1 — Empuje (Pecho, Hombros, Tríceps)",
+        "ejercicios": [
+          { "nombre": "Press de banca con barra", "series": 4, "repeticiones": "6-10", "descanso": "2-3 min", "notas": "Foco en el descenso lento (3 seg)" },
+          { "nombre": "Press inclinado con mancuernas", "series": 3, "repeticiones": "10-12", "descanso": "90 seg" },
+          { "nombre": "Aperturas con mancuernas", "series": 3, "repeticiones": "12-15", "descanso": "60 seg" },
+          { "nombre": "Press militar con barra", "series": 4, "repeticiones": "8-10", "descanso": "2 min" },
+          { "nombre": "Elevaciones laterales", "series": 3, "repeticiones": "12-15", "descanso": "60 seg" },
+          { "nombre": "Fondos en paralelas (tríceps)", "series": 3, "repeticiones": "10-12", "descanso": "90 seg" },
+          { "nombre": "Extensión de tríceps en polea", "series": 3, "repeticiones": "12-15", "descanso": "60 seg" }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Día 2 — Jalón (Espalda, Bíceps)",
+        "ejercicios": [
+          { "nombre": "Dominadas o jalón al pecho", "series": 4, "repeticiones": "6-10", "descanso": "2-3 min", "notas": "Si dominadas, agregar peso cuando llegues a 10" },
+          { "nombre": "Remo con barra", "series": 4, "repeticiones": "8-10", "descanso": "2 min" },
+          { "nombre": "Remo con mancuerna a una mano", "series": 3, "repeticiones": "10-12 c/lado", "descanso": "90 seg" },
+          { "nombre": "Jalón en polea (agarre cerrado)", "series": 3, "repeticiones": "12-15", "descanso": "60 seg" },
+          { "nombre": "Curl de bíceps con barra", "series": 3, "repeticiones": "8-12", "descanso": "90 seg" },
+          { "nombre": "Curl martillo con mancuernas", "series": 3, "repeticiones": "10-12", "descanso": "60 seg" }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Día 3 — Piernas (Cuádriceps, Isquiotibiales, Glúteos)",
+        "ejercicios": [
+          { "nombre": "Sentadilla con barra", "series": 4, "repeticiones": "6-10", "descanso": "3 min", "notas": "Prioridad #1 de la semana — máxima concentración" },
+          { "nombre": "Prensa de piernas", "series": 3, "repeticiones": "10-12", "descanso": "2 min" },
+          { "nombre": "Extensiones de cuádriceps", "series": 3, "repeticiones": "12-15", "descanso": "90 seg" },
+          { "nombre": "Peso muerto rumano", "series": 4, "repeticiones": "8-10", "descanso": "2 min", "notas": "Foco en el estiramiento de isquiotibiales" },
+          { "nombre": "Curl femoral", "series": 3, "repeticiones": "10-12", "descanso": "90 seg" },
+          { "nombre": "Pantorrillas de pie", "series": 4, "repeticiones": "15-20", "descanso": "60 seg" }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": "Día 4 — Upper (Pecho, Espalda, Hombros)",
+        "ejercicios": [
+          { "nombre": "Press de banca inclinado", "series": 4, "repeticiones": "8-12", "descanso": "2 min" },
+          { "nombre": "Remo en máquina o polea baja", "series": 4, "repeticiones": "10-12", "descanso": "90 seg" },
+          { "nombre": "Elevaciones laterales en polea", "series": 3, "repeticiones": "15-20", "descanso": "60 seg" },
+          { "nombre": "Aperturas inversas (deltoides posterior)", "series": 3, "repeticiones": "12-15", "descanso": "60 seg" },
+          { "nombre": "Curl de bíceps con mancuernas", "series": 3, "repeticiones": "10-12", "descanso": "60 seg" },
+          { "nombre": "Tríceps sobre la cabeza", "series": 3, "repeticiones": "10-12", "descanso": "60 seg" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "slug": "fuerza-3-dias-full-body",
+    "name": "Fuerza 3 días — Full Body",
+    "shortDescription": "Rutina basada en los movimientos básicos para desarrollar fuerza máxima en todo el cuerpo.",
+    "description": "Rutina de fuerza de 3 días semanales con descanso entre sesiones. Basada en los movimientos compuestos fundamentales: sentadilla, peso muerto y press. Progresión lineal de cargas para ganar fuerza de manera constante. Ideal para intermedios que quieran mejorar sus números en los básicos.",
+    "objetivo": "fuerza",
+    "nivel": "intermedio",
+    "diasPorSemana": 3,
+    "duracionMinutos": 60,
+    "featured": true,
+    "badge": "recomendado",
+    "suplementosRecomendados": [
+      "creatina-ultra-tech",
+      "whey-protein-ultra-tech-454g",
+      "pre-no-explosive-energy-xp-390g"
+    ],
+    "dias": [
+      {
+        "numero": 1,
+        "nombre": "Día A — Sentadilla + Press",
+        "ejercicios": [
+          { "nombre": "Sentadilla con barra", "series": 5, "repeticiones": "5", "descanso": "3-5 min", "notas": "Peso fijo, progresión de 2.5kg por sesión" },
+          { "nombre": "Press de banca", "series": 5, "repeticiones": "5", "descanso": "3-5 min" },
+          { "nombre": "Remo con barra (Pendlay)", "series": 5, "repeticiones": "5", "descanso": "3 min" },
+          { "nombre": "Fondos en paralelas", "series": 3, "repeticiones": "5-8", "descanso": "2 min", "notas": "Agregar peso con cinturón cuando sea fácil" },
+          { "nombre": "Curl de bíceps con barra", "series": 3, "repeticiones": "8-10", "descanso": "90 seg" }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Día B — Peso Muerto + Press Militar",
+        "ejercicios": [
+          { "nombre": "Peso muerto con barra", "series": 1, "repeticiones": "5", "descanso": "5 min", "notas": "Una sola serie pesada — progresión de 5kg por sesión" },
+          { "nombre": "Press militar con barra (parado)", "series": 5, "repeticiones": "5", "descanso": "3-5 min" },
+          { "nombre": "Sentadilla frontal", "series": 3, "repeticiones": "5", "descanso": "3 min", "notas": "Opcional — 70% del peso de sentadilla trasera" },
+          { "nombre": "Dominadas", "series": 3, "repeticiones": "hasta el fallo", "descanso": "2-3 min" },
+          { "nombre": "Plancha abdominal", "series": 3, "repeticiones": "30-60 seg", "descanso": "60 seg" }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Día C — Variantes + Accesorios",
+        "ejercicios": [
+          { "nombre": "Sentadilla búlgara", "series": 4, "repeticiones": "6-8 c/lado", "descanso": "2 min" },
+          { "nombre": "Press de banca inclinado", "series": 4, "repeticiones": "6-8", "descanso": "2-3 min" },
+          { "nombre": "Peso muerto rumano", "series": 4, "repeticiones": "6-8", "descanso": "2 min" },
+          { "nombre": "Remo con mancuerna", "series": 3, "repeticiones": "8-10 c/lado", "descanso": "90 seg" },
+          { "nombre": "Elevaciones laterales", "series": 3, "repeticiones": "12-15", "descanso": "60 seg" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "slug": "definicion-5-dias-torso-pierna",
+    "name": "Definición 5 días — Torso/Pierna",
+    "shortDescription": "Rutina de alto volumen y frecuencia para maximizar el gasto calórico y preservar músculo en corte.",
+    "description": "Rutina de definición de 5 días con split torso/pierna. Alto volumen, descansos cortos y cardio integrado para maximizar el gasto calórico y mantener la masa muscular durante la etapa de corte. Requiere buena base de entrenamiento.",
+    "objetivo": "definicion",
+    "nivel": "avanzado",
+    "diasPorSemana": 5,
+    "duracionMinutos": 70,
+    "featured": false,
+    "suplementosRecomendados": [
+      "pre-no-explosive-ripped-360g",
+      "bcaa-2-1-1-ultra-tech-220g",
+      "glutamine-ultra-tech-150g"
+    ],
+    "dias": [
+      {
+        "numero": 1,
+        "nombre": "Día 1 — Torso (Empuje)",
+        "ejercicios": [
+          { "nombre": "Press de banca", "series": 4, "repeticiones": "10-12", "descanso": "60 seg" },
+          { "nombre": "Press inclinado con mancuernas", "series": 3, "repeticiones": "12-15", "descanso": "60 seg" },
+          { "nombre": "Press militar", "series": 3, "repeticiones": "10-12", "descanso": "60 seg" },
+          { "nombre": "Elevaciones laterales", "series": 4, "repeticiones": "15-20", "descanso": "45 seg" },
+          { "nombre": "Tríceps en polea", "series": 3, "repeticiones": "15-20", "descanso": "45 seg" },
+          { "nombre": "Cardio HIIT", "series": 1, "repeticiones": "15 min", "descanso": "-", "notas": "Intervalos 30 seg al máximo / 30 seg recuperación" }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Día 2 — Piernas (Cuád + Glúteos)",
+        "ejercicios": [
+          { "nombre": "Sentadilla con barra", "series": 4, "repeticiones": "10-12", "descanso": "90 seg" },
+          { "nombre": "Prensa de piernas", "series": 3, "repeticiones": "15", "descanso": "60 seg" },
+          { "nombre": "Extensiones de cuádriceps", "series": 3, "repeticiones": "15-20", "descanso": "45 seg" },
+          { "nombre": "Hip Thrust", "series": 4, "repeticiones": "12-15", "descanso": "60 seg" },
+          { "nombre": "Zancadas caminando", "series": 3, "repeticiones": "12 c/lado", "descanso": "60 seg" },
+          { "nombre": "Cardio continuo moderado", "series": 1, "repeticiones": "20 min", "descanso": "-" }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Día 3 — Torso (Jalón + Hombros Posterior)",
+        "ejercicios": [
+          { "nombre": "Dominadas o jalón al pecho", "series": 4, "repeticiones": "10-12", "descanso": "60 seg" },
+          { "nombre": "Remo con barra", "series": 3, "repeticiones": "10-12", "descanso": "60 seg" },
+          { "nombre": "Remo en máquina", "series": 3, "repeticiones": "12-15", "descanso": "60 seg" },
+          { "nombre": "Aperturas inversas", "series": 4, "repeticiones": "15-20", "descanso": "45 seg" },
+          { "nombre": "Curl de bíceps", "series": 3, "repeticiones": "12-15", "descanso": "45 seg" },
+          { "nombre": "Cardio HIIT", "series": 1, "repeticiones": "15 min", "descanso": "-" }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": "Día 4 — Piernas (Isquios + Pantorrillas)",
+        "ejercicios": [
+          { "nombre": "Peso muerto rumano", "series": 4, "repeticiones": "10-12", "descanso": "90 seg" },
+          { "nombre": "Curl femoral", "series": 4, "repeticiones": "12-15", "descanso": "60 seg" },
+          { "nombre": "Buenos días", "series": 3, "repeticiones": "12-15", "descanso": "60 seg" },
+          { "nombre": "Pantorrillas de pie", "series": 4, "repeticiones": "20-25", "descanso": "45 seg" },
+          { "nombre": "Cardio continuo moderado", "series": 1, "repeticiones": "25 min", "descanso": "-" }
+        ]
+      },
+      {
+        "numero": 5,
+        "nombre": "Día 5 — Full Body Express + Abdominales",
+        "ejercicios": [
+          { "nombre": "Circuito: Sentadilla / Remo / Press (sin descanso)", "series": 4, "repeticiones": "10 c/u", "descanso": "90 seg entre circuitos" },
+          { "nombre": "Crunch abdominal", "series": 4, "repeticiones": "20", "descanso": "45 seg" },
+          { "nombre": "Plancha lateral", "series": 3, "repeticiones": "30 seg c/lado", "descanso": "30 seg" },
+          { "nombre": "Elevación de piernas colgado", "series": 3, "repeticiones": "15", "descanso": "60 seg" },
+          { "nombre": "Cardio LISS", "series": 1, "repeticiones": "30 min", "descanso": "-", "notas": "Caminata rápida o bicicleta a ritmo moderado" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "slug": "principiantes-3-dias-full-body",
+    "name": "Principiantes 3 días — Full Body",
+    "shortDescription": "Punto de partida ideal para quienes empiezan a entrenar. Movimientos básicos, técnica y progresión gradual.",
+    "description": "Rutina diseñada para personas que recién comienzan en el gimnasio. El foco está en aprender la técnica correcta de los movimientos básicos, ganar coordinación neuromuscular y construir una base sólida. Los ejercicios se pueden realizar con máquinas o con barra/mancuernas dependiendo de la disponibilidad.",
+    "objetivo": "principiante",
+    "nivel": "principiante",
+    "diasPorSemana": 3,
+    "duracionMinutos": 50,
+    "featured": true,
+    "badge": "recomendado",
+    "suplementosRecomendados": [
+      "whey-protein-ultra-tech-454g",
+      "glutamine-ultra-tech-150g"
+    ],
+    "dias": [
+      {
+        "numero": 1,
+        "nombre": "Día A — Full Body (Sesión 1)",
+        "ejercicios": [
+          { "nombre": "Sentadilla en máquina Smith o goblet squat", "series": 3, "repeticiones": "12-15", "descanso": "90 seg", "notas": "Priorizar técnica sobre el peso" },
+          { "nombre": "Press de pecho en máquina", "series": 3, "repeticiones": "12-15", "descanso": "90 seg" },
+          { "nombre": "Jalón al pecho en polea", "series": 3, "repeticiones": "12-15", "descanso": "90 seg" },
+          { "nombre": "Press de hombros en máquina", "series": 3, "repeticiones": "12-15", "descanso": "90 seg" },
+          { "nombre": "Curl de bíceps con mancuernas", "series": 2, "repeticiones": "12", "descanso": "60 seg" },
+          { "nombre": "Tríceps en polea", "series": 2, "repeticiones": "12", "descanso": "60 seg" },
+          { "nombre": "Plancha abdominal", "series": 3, "repeticiones": "20-30 seg", "descanso": "60 seg" }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Día B — Full Body (Sesión 2)",
+        "ejercicios": [
+          { "nombre": "Prensa de piernas", "series": 3, "repeticiones": "12-15", "descanso": "90 seg" },
+          { "nombre": "Press inclinado con mancuernas", "series": 3, "repeticiones": "12-15", "descanso": "90 seg" },
+          { "nombre": "Remo en máquina", "series": 3, "repeticiones": "12-15", "descanso": "90 seg" },
+          { "nombre": "Elevaciones laterales con mancuernas", "series": 3, "repeticiones": "15", "descanso": "60 seg" },
+          { "nombre": "Extensiones de cuádriceps", "series": 2, "repeticiones": "15", "descanso": "60 seg" },
+          { "nombre": "Curl femoral", "series": 2, "repeticiones": "15", "descanso": "60 seg" },
+          { "nombre": "Crunch abdominal", "series": 3, "repeticiones": "15-20", "descanso": "60 seg" }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Día C — Full Body (Sesión 3)",
+        "ejercicios": [
+          { "nombre": "Peso muerto con mancuernas", "series": 3, "repeticiones": "12", "descanso": "2 min", "notas": "Aprender la técnica antes de aumentar peso" },
+          { "nombre": "Aperturas con mancuernas", "series": 3, "repeticiones": "12-15", "descanso": "90 seg" },
+          { "nombre": "Remo con mancuerna", "series": 3, "repeticiones": "12 c/lado", "descanso": "90 seg" },
+          { "nombre": "Press militar con mancuernas sentado", "series": 3, "repeticiones": "12", "descanso": "90 seg" },
+          { "nombre": "Hip Thrust con peso corporal", "series": 3, "repeticiones": "20", "descanso": "60 seg" },
+          { "nombre": "Pantorrillas de pie", "series": 3, "repeticiones": "20", "descanso": "45 seg" },
+          { "nombre": "Plancha + rotación", "series": 3, "repeticiones": "8 c/lado", "descanso": "60 seg" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "slug": "resistencia-cardio-4-dias",
+    "name": "Resistencia y Cardio 4 días",
+    "shortDescription": "Combinación de circuitos funcionales y cardio para mejorar la resistencia y quemar grasa.",
+    "description": "Rutina de 4 días que combina entrenamiento de fuerza en circuito con trabajo cardiovascular. Ideal para mejorar la capacidad aeróbica, perder grasa y mantener la masa muscular. Los circuitos mantienen el ritmo cardíaco elevado durante toda la sesión para maximizar el gasto calórico.",
+    "objetivo": "resistencia",
+    "nivel": "intermedio",
+    "diasPorSemana": 4,
+    "duracionMinutos": 60,
+    "featured": false,
+    "suplementosRecomendados": [
+      "energy-gel-amino-cafeina-32g",
+      "rehydra-tech-isotonic-700g",
+      "electrolitos-ultra-tech-capsulas-x60"
+    ],
+    "dias": [
+      {
+        "numero": 1,
+        "nombre": "Día 1 — Circuito Upper Body + Cardio",
+        "ejercicios": [
+          { "nombre": "Calentamiento: trote suave", "series": 1, "repeticiones": "10 min", "descanso": "-" },
+          { "nombre": "Circuito A (3 vueltas sin descanso entre ejercicios):", "series": 3, "repeticiones": "—", "descanso": "90 seg entre vueltas" },
+          { "nombre": "  → Flexiones", "series": 3, "repeticiones": "15", "descanso": "—" },
+          { "nombre": "  → Remo con mancuernas", "series": 3, "repeticiones": "15", "descanso": "—" },
+          { "nombre": "  → Press de hombros", "series": 3, "repeticiones": "15", "descanso": "—" },
+          { "nombre": "  → Burpees", "series": 3, "repeticiones": "10", "descanso": "—" },
+          { "nombre": "Cardio continuo: bicicleta o remo", "series": 1, "repeticiones": "20 min", "descanso": "-", "notas": "Frecuencia cardíaca 65-75% del máximo" }
+        ]
+      },
+      {
+        "numero": 2,
+        "nombre": "Día 2 — Circuito Lower Body + HIIT",
+        "ejercicios": [
+          { "nombre": "Calentamiento dinámico", "series": 1, "repeticiones": "10 min", "descanso": "-" },
+          { "nombre": "Circuito B (3 vueltas sin descanso entre ejercicios):", "series": 3, "repeticiones": "—", "descanso": "90 seg entre vueltas" },
+          { "nombre": "  → Sentadilla con salto", "series": 3, "repeticiones": "15", "descanso": "—" },
+          { "nombre": "  → Zancadas alternas", "series": 3, "repeticiones": "12 c/lado", "descanso": "—" },
+          { "nombre": "  → Hip Thrust con barra", "series": 3, "repeticiones": "15", "descanso": "—" },
+          { "nombre": "  → Mountain climbers", "series": 3, "repeticiones": "20 c/lado", "descanso": "—" },
+          { "nombre": "HIIT: sprint/caminata", "series": 8, "repeticiones": "20 seg sprint / 40 seg caminata", "descanso": "-" }
+        ]
+      },
+      {
+        "numero": 3,
+        "nombre": "Día 3 — Full Body Funcional",
+        "ejercicios": [
+          { "nombre": "Calentamiento: movilidad articular", "series": 1, "repeticiones": "10 min", "descanso": "-" },
+          { "nombre": "Peso muerto con mancuernas", "series": 4, "repeticiones": "12", "descanso": "60 seg" },
+          { "nombre": "Press de pecho + remo superset", "series": 4, "repeticiones": "12 c/u", "descanso": "60 seg entre superset", "notas": "Sin descanso entre press y remo" },
+          { "nombre": "Sentadilla goblet", "series": 4, "repeticiones": "15", "descanso": "60 seg" },
+          { "nombre": "Plancha dinámica (in/out)", "series": 3, "repeticiones": "30 seg", "descanso": "30 seg" },
+          { "nombre": "Cardio LISS: caminata rápida o natación", "series": 1, "repeticiones": "25 min", "descanso": "-" }
+        ]
+      },
+      {
+        "numero": 4,
+        "nombre": "Día 4 — Resistencia Aeróbica Larga",
+        "ejercicios": [
+          { "nombre": "Calentamiento suave", "series": 1, "repeticiones": "10 min", "descanso": "-" },
+          { "nombre": "Cardio de larga duración (correr, bicicleta, elíptica)", "series": 1, "repeticiones": "35-45 min", "descanso": "-", "notas": "Zona 2: podés mantener una conversación" },
+          { "nombre": "Core: crunch + plancha + elevaciones de piernas", "series": 3, "repeticiones": "15/30 seg/15", "descanso": "60 seg entre series" },
+          { "nombre": "Vuelta a la calma: elongación", "series": 1, "repeticiones": "10 min", "descanso": "-" }
+        ]
+      }
+    ]
+  }
+]
