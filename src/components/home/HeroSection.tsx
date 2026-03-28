@@ -1,7 +1,5 @@
 import Link from "next/link";
-import { ArrowRight, Zap, Shield, Truck } from "lucide-react";
-import { buildGeneralWhatsAppURL } from "@/lib/whatsapp";
-import { MessageCircle } from "lucide-react";
+import { ArrowRight, Zap, Shield, Truck, MessageCircle } from "lucide-react";
 
 export default function HeroSection() {
   return (
@@ -45,15 +43,12 @@ export default function HeroSection() {
             Ver productos
             <ArrowRight className="w-4 h-4" />
           </Link>
-          <a
-            href={buildGeneralWhatsAppURL()}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center justify-center gap-2 bg-[#25D366] hover:bg-[#20BA5A] text-white font-semibold px-8 py-4 rounded-xl transition-all duration-200 hover:shadow-lg hover:shadow-[#25D366]/25 hover:-translate-y-0.5"
+          <Link
+            href="/rutinas"
+            className="inline-flex items-center justify-center gap-2 bg-white/10 hover:bg-white/15 border border-white/20 text-white font-semibold px-8 py-4 rounded-xl transition-all duration-200 hover:-translate-y-0.5"
           >
-            <MessageCircle className="w-4 h-4" />
-            Consultar ahora
-          </a>
+            💪 Quiero mi rutina
+          </Link>
         </div>
 
         {/* Trust signals */}
